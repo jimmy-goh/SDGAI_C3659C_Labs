@@ -1,1 +1,2 @@
-# SDGAI_C3659C_Labs
+# Codes and Data for C3659C - Vision Models for Generative AI Applications
+# of Specialist Diploma in Generative Applied AI
